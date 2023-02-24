@@ -1,7 +1,7 @@
 const button1000 = document.getElementById('button1000');
 button1000.addEventListener('click', func1000);
 function func1000(){
-    button1000.innerHTML = 'Most people hope to have a good break during the Chinese New year after hard wroking a whole year: Clearing the house, washing all pillows and blankets, wearing new clothes, eating a big dinner at the new year eve'
+    button1000.innerHTML = 'Most people hope to have a good break during the Chinese New year after hard wroking a whole year: Clearing the house, washing all pillows and blankets, pasting festival couplets, wearing new clothes, eating a big dinner at the new year eve'
     button1000.style.color = 'blue';
     button1000.style.fontSize = '26px;';
 };
@@ -9,7 +9,7 @@ function func1000(){
 const button1001 = document.getElementById('button1001');
 button1001.addEventListener('click', func1001);
 function func1001(){
-    button1001.innerHTML = 'the Chinese New Year is a good chance to meet family members and friends: the married people or elder relatives give the young lucky money with red envelopes'
+    button1001.innerHTML = 'The Chinese New Year is a good chance to meet family members and friends: the married people or elder relatives give the young lucky money with red envelopes'
     button1001.style.color = 'blue';
     button1001.style.fontSize = '1.2em;';
 };

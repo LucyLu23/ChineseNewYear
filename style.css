@@ -6,6 +6,7 @@
 body{ 
     width: 600px; 
     height: 600px; 
+    background-color: rgb(244, 194, 202);
    /*  background-image: url(./RabbitYear1.PNG); */
     background-position: 0px 0px;
     background-repeat: repeat-x;  
@@ -27,7 +28,7 @@ header{
     vertical-align: middle;
     justify-content: space-between;
     margin-bottom: 10px;
-    font-size: 22px;
+    font-size:larger;
     height: 36px;
     width: 1520px;
     
@@ -37,7 +38,7 @@ main {
     float: left;
     text-align: left;
     margin: 0 10px;
-    font-size: medium;
+    font-size: large;
    
 }
 footer{
@@ -57,7 +58,7 @@ nav, article, aside{
     
 }
 nav{   
-    width: 260px;
+    width: 360px;
     font-size: larger;  
    
    }
@@ -66,7 +67,7 @@ article{
     margin: 0 6px;
 }
 aside{   
-    width: 120px;
+    width: 60px;
   }
 #header1{
     justify-content: space-between;
@@ -118,7 +119,7 @@ aside{
     display: flex;
 }
 .box1{
-    width: 300px;
+    width: 400px;
   /*   display: inline-flexbox; */
 }
 .box2{
